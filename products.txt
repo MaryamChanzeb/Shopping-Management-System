@@ -1,0 +1,10 @@
+Laptop 2 80000
+Mouse 10 1200
+Keyboard 8 2500
+Monitor 5 35000
+Headphones 7 4500
+Speaker 4 6000
+Webcam 6 3200
+Printer 3 25000
+USBDrive 15 1800
+PowerBank 9 3500
