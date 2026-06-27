@@ -51,13 +51,12 @@ The system stores product information in a text file and allows users to perform
 ```text
 Shopping-Management-System/
 │
-├── ShoppingManagementSystem.cpp      # Main source code   
+├── ShoppingManagementSystem.cpp      # Main source code
+│
+├── products.txt                      # Product database
 │
 ├── README.md                         # Project documentation
-│
-├── Project Proposal.docx             # Project proposal
-│
-└── CP Project Report.docx            # Final project report
+
 ```
 
 ## 🚀 How to Run
